@@ -1,2 +1,2 @@
-# AvaliacaoAp1.
+# AvaliacaoAp1
 ap1 IAC
